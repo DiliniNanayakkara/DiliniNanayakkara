@@ -3,7 +3,7 @@
 - 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools.
 
-- 📫 How to reach me:  🐦 [twitter][twitter] | 👔 [linkedin][linkedin] 
+- 📫 How to reach me:  🐦 [twitter][twitter] | 👔 [linkedin][linkedin] | [behance][behance]
 
 [twitter]: https://twitter.com/DiliniNanayakk1
 [linkedin]: https://www.linkedin.com/in/dilini-nimesha-9491331b4/
