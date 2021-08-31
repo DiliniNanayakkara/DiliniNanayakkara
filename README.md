@@ -6,7 +6,7 @@
 - 📫 How to reach me: 🎨 [behance][behance] | 🎨 [dribbble][dribbble] | 👔 [linkedin][linkedin] 
 
 
-[linkedin]: https://www.linkedin.com/in/dilini-nimesha-9491331b4/
+[linkedin]: https://www.linkedin.com/in/dilini-nanayakkara-9491331b4/
 [behance]: https://www.behance.net/dilininimesha
 [dribbble]: https://dribbble.com/Nanayakkara97
 <a href="https://dev.to/dilininanayakkara">
