@@ -18,7 +18,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DiliniNanayakkara's DEV Profile" height="30" width="30">
 </a>
    
-   
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiliniNanayakkara&layout=compact).
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiliniNanayakkara&theme=dark&show_icons=true" alt="DiliniNanayakkara" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=DiliniNanayakkara&theme=dark&show_icons=true" alt="DiliniNanayakkara" /></p>
