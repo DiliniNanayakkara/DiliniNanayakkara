@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Dilini. Thanks for visiting my GitHub
 
+
+<div align="center">
+<img src="https://www.vippng.com/png/detail/254-2544372_the-cherryontop-o-cat-github-octocat.png" width="200">
+</div>
+
 - 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools.
 
